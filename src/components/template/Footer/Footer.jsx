@@ -16,7 +16,7 @@ export default function Footer() {
         className="text-center p-3"
         style={{ backgroundColor: "#2F3440" }}
       >
-      Meu Prestador WEB © 2022 Copyright
+      - Meu Prestador WEB © 2022 Copyright
       </div>
     </MDBFooter>
   );
